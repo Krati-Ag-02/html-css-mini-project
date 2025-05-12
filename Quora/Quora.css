@@ -1,0 +1,62 @@
+
+*{
+    font-family:monospace;
+}
+
+
+h1,h3{
+    color: #b92b27;
+}
+
+#login{
+    color: #b92b27;
+    background-color: white;
+
+}
+
+#signup{
+    color: white;
+    background-color: #b92b27;
+}
+
+.upvote{
+    color:white;
+    background-color: red;
+
+}
+
+.answer{
+    color: white;
+    background-color: green;
+}
+
+.post a{
+    color: rgb(88, 88, 134);
+    background-color: rgb(5, 5, 5);
+}
+
+nav ul li a{
+    color: #046d2ea3;
+}
+
+p+h3{
+    text-decoration: dashed underline;
+}
+
+div>input{
+    background-color:#0a0a0a;
+    color: white;
+}
+
+input[type="text"]{
+    color: red;
+}
+
+input[type="password"]{
+    color: green;
+}
+
+input[type]{
+    background-color : gainsboro;
+} 
+
