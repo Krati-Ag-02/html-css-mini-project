@@ -7,11 +7,11 @@ A collection of small, self-contained projects built using HTML and CSS. These p
 
 ## Projects Included
 
-# Pet Adoption Page: A responsive layout showcasing pet adoption information.
+#### Pet Adoption Page: A responsive layout showcasing pet adoption information.
 
-# Quora Clone: A static page mimicking the Quora interface.
+#### Quora Clone: A static page mimicking the Quora interface.
 
-# Sidebar Menu: A navigational sidebar implemented using only HTML and CSS.
+#### Sidebar Menu: A navigational sidebar implemented using only HTML and CSS.
 
 ---
 
